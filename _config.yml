@@ -1,11 +1,11 @@
 # Site settings
-author: Erik Kasperson
-title: 
+author: Erik
+title: Stepping forward 
 header-img: img/home-bg.png
 email: chefkasperson@gmail.com
-copyright_name: Erik Kasperson
+copyright_name: Erik
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Journey through bootcamp
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  chefkasperson
